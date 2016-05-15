@@ -1,4 +1,4 @@
-# agoras - Open Sourece Forum
+# agoras - Open Source Forum
 Agoras is an open platform containing various forums which gives you the power to discuss various topics and issues. Agoras is an open source platform created with the goal of helping the general public in sharing their ideas and connecting with individuals with the same idealogy through forums.
 
 
