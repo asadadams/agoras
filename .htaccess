@@ -1,0 +1,21 @@
+RewriteEngine On
+
+RewriteRule ^index$ index.php [NC]
+RewriteRule ^error404 error404.php 
+RewriteRule ^error405 error405.php 
+RewriteRule ^messages messages.php
+RewriteRule ^submit submit.php
+RewriteRule ^account  account_settings.php 
+RewriteRule ^createforum  createforum.php 
+RewriteRule ^about  about.php 
+RewriteRule ^faq  faq.php 
+RewriteRule "^([a-zA-Z0-9_-]+)$" user.php?user=$1 [NC]
+
+
+
+ 
+
+
+
+
+
