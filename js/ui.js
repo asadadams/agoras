@@ -1,0 +1,21 @@
+    $( "#tabs" ).tabs();
+    $(".editor").jqte({
+        change: function(){  $('#save_profile').removeAttr('disabled'); }, format: false,
+        color: false,
+        fsize: false,
+        sub: false,
+        strike: false,
+        sup: false,
+        title: false,
+        ul: false,
+        unlink: false,
+        rule: false,
+        right: false,
+        remove: false,
+        p: false,
+        outdent: false,
+        ol: false,
+        left: false,
+        indent: false,
+        center: false,
+    });

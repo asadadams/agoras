@@ -1,0 +1,102 @@
+<footer>
+            <div class='container12'>
+               <div class="row">
+                   <div class='footer_desktop'>
+                    <div class="column3">
+                        <ul>
+                            <div id="header_title">Help and support</div>
+                            <li><a href="">FAQ</a></li>
+                            <li><a href="">Advertise</a></li>
+                            <li><a href="">Jobs</a></li>
+                           <li><input type="text" name="email" class='large-fld' placeholder="Send us an email"></li>
+                       </ul>
+                   </div>
+                 
+                   <div class="column2 social">
+                        <ul>
+                            <div id="header_title">Social</div>
+                            <li>Join our community</li>
+                            <a href="" class="fb"><div id='sm_txt'>facebook</div></a>
+                            <a href="" class="tw"><div id='sm_txt'>Twitter</div></a>
+                            <a href="" class="gp"><div id='sm_txt'>Google+</div></a>
+                            <a href="" class="rss"><div id='sm_txt'>RSS</div></a>
+                       </ul>
+                   </div>
+                   
+                    <div class="column2">
+                       <ul>
+                           <div id="header_title">About us</div>
+                           <li><a href="">About us</a></li>
+                           <li><a href="">Terms and conditions</a></li>
+                           <li><a href="">Privacy</a></li>
+                           <li><a href="">Sitemap</a></li>
+                           <a href=""><li><a href="">Blog</a></li>
+                       </ul>
+                   </div>
+                   
+                     <div class="column1">
+                       <ul>
+                           <div id="header_title">Agoras</div>
+                           <li><a href="">Signup</a></li>
+                           <li><a href="">Login</a></li>
+                           <li><a href="">agoras.com</a></li>
+                       </ul>
+                   </div>
+                        
+                    <div class="column1">
+                       <ul>
+                           <div id="header_title">Life/Arts</div>
+                           <li><a href="">General</a></li>
+                           <li><a href="">Music</a></li>
+                           <li><a href="">Television</a></li>
+                           <li><a href="">Fashion</a></li>
+                           <li><a href="">Education</a></li>
+                            <li><a href="">Movies</a></li>
+                        
+                       </ul>
+                   </div>
+                    <div class="column1">
+                       <ul>
+                           <div id="header_title">Science</div>
+                           <li><a href="">Fashion</a></li>
+                           <li><a href="">Music</a></li>
+                           <li><a href="">Television</a></li>
+                           <li><a href="">Fashion</a></li>
+                           <li><a href="">Music</a></li>
+                       </ul>
+                   </div>
+                        
+                     <div class="column1">
+                       <ul>
+                           <div id="header_title">Media</div>
+                           <li><a href="">Fashion</a></li>
+                           <li><a href="">Music</a></li>
+                           <li><a href="">Television</a></li>
+                           <li><a href="">Fashion</a></li>
+                           <li><a href="">Music</a></li>
+                       </ul>
+                   </div>     
+                         <div class="column1">
+                       <ul>
+                           <div id="header_title">Other</div>
+                           <li><a href="">Fashion</a></li>
+                           <li><a href="">Music</a></li>
+                           <li><a href="">Television</a></li>
+                           <li><a href="">Fashion</a></li>
+                           <li><a href="">Music</a></li>
+                       </ul>
+                   </div>
+                    </div>
+                </div>
+            </div>
+                <hr>
+                   <div id="footer_text">Copyright ©2016 Agoras.com.All right reserved|Designed and maintained by SoftVision Inc | <b>BETA VERSION</b> </div>
+                <script src="js/jquery.js" type="text/javascript"></script>
+                <script src="js/jquery-ui.js" type="text/javascript"></script>
+                <script src="js/filestyle.min.js" type="text/javascript"></script>
+                <script src="js/texteditor.js" type="text/javascript"></script>
+                <script src="js/main.js" type="text/javascript"></script>
+                <script src="js/ui.js" type="text/javascript"></script>
+                <script src="js/real-time.js" type="text/javascript"></script>
+            </footer>
+            <!--End of footer -->
