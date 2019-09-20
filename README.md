@@ -29,6 +29,4 @@ Agoras is an open platform containing various forums which gives you the power t
  Twitter: <a href='https://twitter.com/asadadams'>www.twitter.com/asadadams</a>
  
 Facebook: <a href='https://web.facebook.com/asad.adams'>Adams Asad</a>
-
-  Mobile: (+233)0242928745
   
